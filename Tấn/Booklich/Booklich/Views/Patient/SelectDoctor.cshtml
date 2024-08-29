@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Booklich.Data.Doctor>
+
+@{
+    ViewData["Title"] = "Chọn Bác Sĩ";
+}
+
+<h2>Select a Doctor</h2>
+
+@if (!Model.Any())
+{
+    <p>No doctors available for this specialty.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Doctor Name</th>
+                <th>Specialty</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var doctor in Model)
+            {
+                <tr>
+                    <td>@doctor.FullName</td>
+                    <td>@doctor.Specialty</td>
+                    <td>
+                        <a asp-action="SelectTimeSlot" asp-route-doctorId="@doctor.DoctorId" asp-route-patientId="@ViewBag.PatientID" class="btn btn-primary">Select Time Slot</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

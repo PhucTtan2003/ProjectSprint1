@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BacsiCreate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED02E305-5D81-4D2D-9BC4-97E0744E867F}|BacsiCreate\\BacsiCreate.csproj|d:\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\bacsicreate\\bacsicreate\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED02E305-5D81-4D2D-9BC4-97E0744E867F}|BacsiCreate\\BacsiCreate.csproj|solutionrelative:bacsicreate\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED02E305-5D81-4D2D-9BC4-97E0744E867F}|BacsiCreate\\BacsiCreate.csproj|D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BacsiCreate\\bacsicreate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED02E305-5D81-4D2D-9BC4-97E0744E867F}|BacsiCreate\\BacsiCreate.csproj|solutionrelative:bacsicreate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED02E305-5D81-4D2D-9BC4-97E0744E867F}|BacsiCreate\\BacsiCreate.csproj|D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BacsiCreate\\bacsicreate\\views\\doctors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED02E305-5D81-4D2D-9BC4-97E0744E867F}|BacsiCreate\\BacsiCreate.csproj|solutionrelative:bacsicreate\\views\\doctors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED02E305-5D81-4D2D-9BC4-97E0744E867F}|BacsiCreate\\BacsiCreate.csproj|D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BacsiCreate\\bacsicreate\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED02E305-5D81-4D2D-9BC4-97E0744E867F}|BacsiCreate\\BacsiCreate.csproj|solutionrelative:bacsicreate\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED02E305-5D81-4D2D-9BC4-97E0744E867F}|BacsiCreate\\BacsiCreate.csproj|D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BacsiCreate\\bacsicreate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED02E305-5D81-4D2D-9BC4-97E0744E867F}|BacsiCreate\\BacsiCreate.csproj|solutionrelative:bacsicreate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED02E305-5D81-4D2D-9BC4-97E0744E867F}|BacsiCreate\\BacsiCreate.csproj|D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BacsiCreate\\bacsicreate\\data\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED02E305-5D81-4D2D-9BC4-97E0744E867F}|BacsiCreate\\BacsiCreate.csproj|solutionrelative:bacsicreate\\data\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED02E305-5D81-4D2D-9BC4-97E0744E867F}|BacsiCreate\\BacsiCreate.csproj|D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BacsiCreate\\bacsicreate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED02E305-5D81-4D2D-9BC4-97E0744E867F}|BacsiCreate\\BacsiCreate.csproj|solutionrelative:bacsicreate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED02E305-5D81-4D2D-9BC4-97E0744E867F}|BacsiCreate\\BacsiCreate.csproj|D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BacsiCreate\\bacsicreate\\data\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED02E305-5D81-4D2D-9BC4-97E0744E867F}|BacsiCreate\\BacsiCreate.csproj|solutionrelative:bacsicreate\\data\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED02E305-5D81-4D2D-9BC4-97E0744E867F}|BacsiCreate\\BacsiCreate.csproj|D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BacsiCreate\\BacsiCreate\\Data\\HospitalDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED02E305-5D81-4D2D-9BC4-97E0744E867F}|BacsiCreate\\BacsiCreate.csproj|solutionrelative:BacsiCreate\\Data\\HospitalDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BacsiCreate\\BacsiCreate\\Views\\Doctors\\Create.cshtml",
+              "RelativeDocumentMoniker": "BacsiCreate\\Views\\Doctors\\Create.cshtml",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BacsiCreate\\BacsiCreate\\Views\\Doctors\\Create.cshtml",
+              "RelativeToolTip": "BacsiCreate\\Views\\Doctors\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T02:07:25.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BacsiCreate\\BacsiCreate\\Views\\Doctors\\Index.cshtml",
+              "RelativeDocumentMoniker": "BacsiCreate\\Views\\Doctors\\Index.cshtml",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BacsiCreate\\BacsiCreate\\Views\\Doctors\\Index.cshtml",
+              "RelativeToolTip": "BacsiCreate\\Views\\Doctors\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T02:06:57.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BacsiCreate\\BacsiCreate\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "BacsiCreate\\Controllers\\DoctorsController.cs",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BacsiCreate\\BacsiCreate\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "BacsiCreate\\Controllers\\DoctorsController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T03:41:55.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BacsiCreate\\BacsiCreate\\Data\\Department.cs",
+              "RelativeDocumentMoniker": "BacsiCreate\\Data\\Department.cs",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BacsiCreate\\BacsiCreate\\Data\\Department.cs",
+              "RelativeToolTip": "BacsiCreate\\Data\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T04:52:23.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BacsiCreate\\BacsiCreate\\appsettings.json",
+              "RelativeDocumentMoniker": "BacsiCreate\\appsettings.json",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BacsiCreate\\BacsiCreate\\appsettings.json",
+              "RelativeToolTip": "BacsiCreate\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T03:39:29.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BacsiCreate\\BacsiCreate\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BacsiCreate\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BacsiCreate\\BacsiCreate\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BacsiCreate\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T04:48:53.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BacsiCreate\\BacsiCreate\\Data\\Doctor.cs",
+              "RelativeDocumentMoniker": "BacsiCreate\\Data\\Doctor.cs",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BacsiCreate\\BacsiCreate\\Data\\Doctor.cs",
+              "RelativeToolTip": "BacsiCreate\\Data\\Doctor.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T04:28:49.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BacsiCreate\\BacsiCreate\\Program.cs",
+              "RelativeDocumentMoniker": "BacsiCreate\\Program.cs",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BacsiCreate\\BacsiCreate\\Program.cs",
+              "RelativeToolTip": "BacsiCreate\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T03:41:01.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HospitalDbContext.cs",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BacsiCreate\\BacsiCreate\\Data\\HospitalDbContext.cs",
+              "RelativeDocumentMoniker": "BacsiCreate\\Data\\HospitalDbContext.cs",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BacsiCreate\\BacsiCreate\\Data\\HospitalDbContext.cs",
+              "RelativeToolTip": "BacsiCreate\\Data\\HospitalDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T03:41:09.3Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

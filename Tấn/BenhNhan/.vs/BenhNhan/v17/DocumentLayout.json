@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20A52C88-48C5-4479-882B-1BF3E86337C1}|BenhNhan\\BenhNhan.csproj|d:\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\benhnhan\\benhnhan\\data\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A52C88-48C5-4479-882B-1BF3E86337C1}|BenhNhan\\BenhNhan.csproj|solutionrelative:benhnhan\\data\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A52C88-48C5-4479-882B-1BF3E86337C1}|BenhNhan\\BenhNhan.csproj|d:\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\benhnhan\\benhnhan\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A52C88-48C5-4479-882B-1BF3E86337C1}|BenhNhan\\BenhNhan.csproj|solutionrelative:benhnhan\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A52C88-48C5-4479-882B-1BF3E86337C1}|BenhNhan\\BenhNhan.csproj|D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\benhnhan\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20A52C88-48C5-4479-882B-1BF3E86337C1}|BenhNhan\\BenhNhan.csproj|solutionrelative:benhnhan\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A52C88-48C5-4479-882B-1BF3E86337C1}|BenhNhan\\BenhNhan.csproj|D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\benhnhan\\benhnhan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20A52C88-48C5-4479-882B-1BF3E86337C1}|BenhNhan\\BenhNhan.csproj|solutionrelative:benhnhan\\benhnhan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A52C88-48C5-4479-882B-1BF3E86337C1}|BenhNhan\\BenhNhan.csproj|D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\benhnhan\\data\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A52C88-48C5-4479-882B-1BF3E86337C1}|BenhNhan\\BenhNhan.csproj|solutionrelative:benhnhan\\data\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A52C88-48C5-4479-882B-1BF3E86337C1}|BenhNhan\\BenhNhan.csproj|D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\benhnhan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20A52C88-48C5-4479-882B-1BF3E86337C1}|BenhNhan\\BenhNhan.csproj|solutionrelative:benhnhan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A52C88-48C5-4479-882B-1BF3E86337C1}|BenhNhan\\BenhNhan.csproj|D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\benhnhan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A52C88-48C5-4479-882B-1BF3E86337C1}|BenhNhan\\BenhNhan.csproj|solutionrelative:benhnhan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A52C88-48C5-4479-882B-1BF3E86337C1}|BenhNhan\\BenhNhan.csproj|D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\benhnhan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20A52C88-48C5-4479-882B-1BF3E86337C1}|BenhNhan\\BenhNhan.csproj|solutionrelative:benhnhan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A52C88-48C5-4479-882B-1BF3E86337C1}|BenhNhan\\BenhNhan.csproj|D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\benhnhan\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20A52C88-48C5-4479-882B-1BF3E86337C1}|BenhNhan\\BenhNhan.csproj|solutionrelative:benhnhan\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A52C88-48C5-4479-882B-1BF3E86337C1}|BenhNhan\\BenhNhan.csproj|D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\benhnhan\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20A52C88-48C5-4479-882B-1BF3E86337C1}|BenhNhan\\BenhNhan.csproj|solutionrelative:benhnhan\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A52C88-48C5-4479-882B-1BF3E86337C1}|BenhNhan\\BenhNhan.csproj|D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\benhnhan\\views\\patients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20A52C88-48C5-4479-882B-1BF3E86337C1}|BenhNhan\\BenhNhan.csproj|solutionrelative:benhnhan\\views\\patients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A52C88-48C5-4479-882B-1BF3E86337C1}|BenhNhan\\BenhNhan.csproj|D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\benhnhan\\views\\patients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20A52C88-48C5-4479-882B-1BF3E86337C1}|BenhNhan\\BenhNhan.csproj|solutionrelative:benhnhan\\views\\patients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A52C88-48C5-4479-882B-1BF3E86337C1}|BenhNhan\\BenhNhan.csproj|D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\benhnhan\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{20A52C88-48C5-4479-882B-1BF3E86337C1}|BenhNhan\\BenhNhan.csproj|solutionrelative:benhnhan\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\BenhNhan\\Data\\Doctor.cs",
+              "RelativeDocumentMoniker": "BenhNhan\\Data\\Doctor.cs",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\BenhNhan\\Data\\Doctor.cs",
+              "RelativeToolTip": "BenhNhan\\Data\\Doctor.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwCIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:36:42.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\BenhNhan\\Views\\Patients\\Details.cshtml",
+              "RelativeDocumentMoniker": "BenhNhan\\Views\\Patients\\Details.cshtml",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\BenhNhan\\Views\\Patients\\Details.cshtml",
+              "RelativeToolTip": "BenhNhan\\Views\\Patients\\Details.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAUwDQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T05:35:15.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HospitalDbContext.cs",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\BenhNhan\\Data\\HospitalDbContext.cs",
+              "RelativeDocumentMoniker": "BenhNhan\\Data\\HospitalDbContext.cs",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\BenhNhan\\Data\\HospitalDbContext.cs",
+              "RelativeToolTip": "BenhNhan\\Data\\HospitalDbContext.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAiwDEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:33:18.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BenhNhan",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\BenhNhan\\BenhNhan.csproj",
+              "RelativeDocumentMoniker": "BenhNhan\\BenhNhan.csproj",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\BenhNhan\\BenhNhan.csproj",
+              "RelativeToolTip": "BenhNhan\\BenhNhan.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-15T05:30:29.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\BenhNhan\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "BenhNhan\\Controllers\\PatientsController.cs",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\BenhNhan\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "BenhNhan\\Controllers\\PatientsController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T10:45:34.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\BenhNhan\\appsettings.json",
+              "RelativeDocumentMoniker": "BenhNhan\\appsettings.json",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\BenhNhan\\appsettings.json",
+              "RelativeToolTip": "BenhNhan\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T10:39:02.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\BenhNhan\\Program.cs",
+              "RelativeDocumentMoniker": "BenhNhan\\Program.cs",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\BenhNhan\\Program.cs",
+              "RelativeToolTip": "BenhNhan\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T10:46:01.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\BenhNhan\\Views\\Patients\\Index.cshtml",
+              "RelativeDocumentMoniker": "BenhNhan\\Views\\Patients\\Index.cshtml",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\BenhNhan\\Views\\Patients\\Index.cshtml",
+              "RelativeToolTip": "BenhNhan\\Views\\Patients\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T10:47:28.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\BenhNhan\\Views\\Patients\\Create.cshtml",
+              "RelativeDocumentMoniker": "BenhNhan\\Views\\Patients\\Create.cshtml",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\BenhNhan\\Views\\Patients\\Create.cshtml",
+              "RelativeToolTip": "BenhNhan\\Views\\Patients\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T10:46:57.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\BenhNhan\\Views\\Patients\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BenhNhan\\Views\\Patients\\Delete.cshtml",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\BenhNhan\\Views\\Patients\\Delete.cshtml",
+              "RelativeToolTip": "BenhNhan\\Views\\Patients\\Delete.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T11:08:45.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\BenhNhan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BenhNhan\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\BenhNhan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BenhNhan\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T12:05:25.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\BenhNhan\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BenhNhan\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\BenhNhan\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BenhNhan\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-13T12:30:48.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\BenhNhan\\Views\\Patients\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BenhNhan\\Views\\Patients\\Edit.cshtml",
+              "ToolTip": "D:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng\\BenhNhan\\BenhNhan\\Views\\Patients\\Edit.cshtml",
+              "RelativeToolTip": "BenhNhan\\Views\\Patients\\Edit.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T11:49:27.599Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
